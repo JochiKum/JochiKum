@@ -5,7 +5,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a></p>
 <h2>Actually learning to be a developer from:</h2>
-<p><a target="_black" href=https://4geeksacademy.com/us/index </p> <img src="https://4geeksacademy.com/static/dc42e38caa9db517ddea28bea5e40d02/74acc/4geeksacademy-logo-old.webp" style; background= white</a>
+<p><a target="_black" href=https://4geeksacademy.com/us/index </p> <img src="https://imgs.search.brave.com/6dfl4HKYvs57gNDkejPjKmaoE0X8fwhTJfIs9u64srk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cy/Lmxhc2NvbmRlcy5j/bC93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8xMC80R0VFS1Mt/QUNBREVNWS1MT0dP/LTEwMjR4OTA5Lmpw/Zw">
 
 
 <!--
